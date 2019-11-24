@@ -1,5 +1,5 @@
 ---
-name: Pub Operator Survey
+name: SSB Pub Operator Survey
 about: collecting basic stats about pub operation
 title: pub operator survey
 labels: ''
@@ -7,39 +7,49 @@ assignees: ''
 
 ---
 
-### What is the name/address of your pub?
+# SSB Pub Operator Survey
 
-### Is the pub local or cloud-based?
+Please answer the following questions:
 
-#### If cloud based, where is it hosted?
+1. What is the name / address of your pub?
 
-### When was the pub created?
+2. Is the pub local or cloud-based?
 
-### What are the specifications of the the host machine
-- CPU
-- memory
-- disk space
+   1. If cloud based, where is it hosted?
 
-### Which implementation of ssb-server are you running? (Go or JS)
+3. When was the pub created?
 
-### How do you manage processes? (i.e. Shell scripts, Systemd, Docker, PM2, etc)
+4. Why was the pub created? (i.e. public service, private service for friends, second device)
 
-### Do you have monitoring enabled for the server?
+5. What are the specifications of the the host machine
+   - CPU
+   - memory
+   - disk space
 
-### How do you manage blobs? (manual pruning, shell scripts, etc)
+6. Which implementation of ssb-server are you running? (Go or JS)
 
-### What is the size of the .ssb directory?
+7. Which version of ssb-server / sbot are you running?
 
-### What is the size of the .ssb/lobs directory?
+8. How do you manage processes? (i.e. Shell scripts, Systemd, Docker, PM2, etc.)
 
-### What plugins are being used/available? (git-ssb, ssb-npm, ssb-viewer, etc)
+9. Do you have monitoring enabled for the server?
 
-### How many followers does the pub have?
+10. How do you manage blobs? (manual pruning, shell scripts, etc.)
 
-### How many feeds does the pub follow?
+11. What is the size of the .ssb directory?
 
-### How many friends (both parties follow each other) does the pub have?
+12. What is the size of the .ssb/blobs directory?
 
-### Does the pub server use an HTML landing page?
+13. What plugins are being used / available? (git-ssb, ssb-npm, ssb-viewer, etc.)
 
-### Are there other services running on the machine? (Dat, IPFS, cjdns, tor, mumble, jitsi, etc)
+14. How many followers does the pub have?
+
+15. How many feeds does the pub follow?
+
+16. How many friends (both parties follow each other) does the pub have?
+
+17. Does the pub server use an HTML landing page?
+
+18. Are there other services running on the machine? (Dat, IPFS, cjdns, tor, mumble, jitsi, etc.)
+
+### Thank you!
