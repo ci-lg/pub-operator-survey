@@ -1,5 +1,5 @@
 ---
-name: Pub Operator Survey
+name: SSB Pub Operator Survey
 about: collecting basic stats about pub operation
 title: pub operator survey
 labels: ''
@@ -7,39 +7,41 @@ assignees: ''
 
 ---
 
-### What is the name/address of your pub?
+1. What is the name/address of your pub?
 
-### Is the pub local or cloud-based?
+2. Is the pub local or cloud-based?
 
-#### If cloud based, where is it hosted?
+   1. If cloud based, where is it hosted?
 
-### When was the pub created?
+3. When was the pub created?
 
-### What are the specifications of the the host machine
-- CPU
-- memory
-- disk space
+4. What are the specifications of the the host machine
+   - CPU
+   - memory
+   - disk space
 
-### Which implementation of ssb-server are you running? (Go or JS)
+5. Which implementation of ssb-server are you running? (Go or JS)
 
-### How do you manage processes? (i.e. Shell scripts, Systemd, Docker, PM2, etc)
+6. How do you manage processes? (i.e. Shell scripts, Systemd, Docker, PM2, etc)
 
-### Do you have monitoring enabled for the server?
+7. Do you have monitoring enabled for the server?
 
-### How do you manage blobs? (manual pruning, shell scripts, etc)
+8. How do you manage blobs? (manual pruning, shell scripts, etc)
 
-### What is the size of the .ssb directory?
+9. What is the size of the .ssb directory?
 
-### What is the size of the .ssb/lobs directory?
+10. What is the size of the .ssb/blobs directory?
 
-### What plugins are being used/available? (git-ssb, ssb-npm, ssb-viewer, etc)
+11. What plugins are being used/available? (git-ssb, ssb-npm, ssb-viewer, etc)
 
-### How many followers does the pub have?
+12. How many followers does the pub have?
 
-### How many feeds does the pub follow?
+13. How many feeds does the pub follow?
 
-### How many friends (both parties follow each other) does the pub have?
+14. How many friends (both parties follow each other) does the pub have?
 
-### Does the pub server use an HTML landing page?
+15. Does the pub server use an HTML landing page?
 
-### Are there other services running on the machine? (Dat, IPFS, cjdns, tor, mumble, jitsi, etc)
+16. Are there other services running on the machine? (Dat, IPFS, cjdns, tor, mumble, jitsi, etc)
+
+### Thank you!
